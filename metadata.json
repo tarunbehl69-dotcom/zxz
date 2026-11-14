@@ -1,0 +1,6 @@
+{
+  "name": "PaperPulse AI",
+  "description": "Turning Paper Market Intelligence into Smarter Marketing Decisions — AI Marketing Intelligence Platform for Paper & Packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
